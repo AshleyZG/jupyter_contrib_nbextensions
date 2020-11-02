@@ -1,0 +1,8 @@
+Type: IPython Notebook Extension
+Name: DAG Notebook
+Description: Enable subdivide cells horizontally
+Main: hello.js
+Icon: icon.png
+Link: hello.md
+Compatibility: Jupyter (4.x, 5.x)
+
